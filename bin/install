@@ -3,7 +3,7 @@
 source $OPENSHIFT_CARTRIDGE_SDK_BASH
 
 #MONIT_DOWNLOAD_URL="http://mmonit.com/monit/dist/binary/5.6/monit-5.6-linux-x64.tar.gz"
-MONIT_DOWNLOAD_URL="http://mmonit.com/monit/dist/binary/5.8.1/monit-5.8.1-linux-x64.tar.gz"
+MONIT_DOWNLOAD_URL="http://mmonit.com/monit/dist/binary/5.11/monit-5.11-linux-x64.tar.gz"
 
 # Download the precompiled monit binary
 #
