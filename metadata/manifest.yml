@@ -2,12 +2,12 @@
 Name: monit
 Cartridge-Short-Name: MONIT
 Architecture: x86_64
-Display-Name: monit 5.11
+Display-Name: monit 5.12.2
 Description: Monit is an open source utility for managing and monitoring, processes, programs, files, directories and filesystems
-Version: '5.11'
+Version: '5.12.2'
 Versions:
-- '5.11'
-Cartridge-Version: 0.0.3
+- '5.12.2'
+Cartridge-Version: 0.0.4
 Cartridge-Vendor: mfojtik
 License: GPL
 Vendor: mfojtik
@@ -16,14 +16,14 @@ Categories:
 - embedded
 Website: http://collectd.org
 Provides:
-- monit-5.11
+- monit-5.12.2
 - monit
 Scaling:
   Min: 1
   Max: -1
 Group-Overrides:
 - components:
-  - monit-5.11
+  - monit-5.12.2
   - web_framework
 Endpoints:
 - Private-IP-Name: HTTP_IP
